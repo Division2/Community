@@ -16,7 +16,6 @@ import com.jsp.command.BoardModifyViewCommand;
 import com.jsp.command.BoardPagingCommand;
 import com.jsp.command.BoardViewCommand;
 import com.jsp.command.BoardWriteCommand;
-import com.jsp.command.BoardListCommand;
 import com.jsp.command.LoginCommand;
 import com.jsp.command.MemberCommand;
 import com.jsp.command.RegisterCommand;

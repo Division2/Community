@@ -18,7 +18,6 @@ public class ReplyAddCommand implements ReplyCommand {
 		
 		ReplyDAO dao = ReplyDAO.getInstance();
 		
-		int rId = Integer.parseInt(request.getParameter("rId"));
 		int bId = Integer.parseInt(request.getParameter("bId"));
 		String writer = request.getParameter("writer");
 		String content = request.getParameter("content");
